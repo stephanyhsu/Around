@@ -34,7 +34,7 @@ const (
 	PROJECT_ID = "rosy-timer-185822"
 	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://35.190.155.122:9200"
+	ES_URL = "http://104.196.58.14:9200"
 )
 
 
